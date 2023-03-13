@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Eclipse Internal Data
+*.project
+*.classpath
+*.settings
+*.prefs
+
 # Log file
 *.log
 
