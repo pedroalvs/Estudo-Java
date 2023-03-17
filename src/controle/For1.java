@@ -10,8 +10,13 @@ public class For1 {
             contador += 2;
         } */
 
+        //As variáveis criadas dentro do for somente são acessadas dentro do mesmo
         for(int contador = 0; contador <= 20; contador += 2) {
             System.out.printf("i = %d \n", contador);
+        }
+
+        for(int num = 10;num >= 0;num -= 2){
+            System.out.println("Contador = " + num);
         }
 
         // Laço infinito!!!
