@@ -15,12 +15,11 @@ public class TiposPrimitivos {
 		float salario = 11_445.44F;
 		double vendasAcomuladas = 2_991_797_103.01;
 		
-		//TIpo booleano
+		//Tipo booleano
 		boolean estaDeFerias = false; //Falso
 		
 		//Tipo caractere
 		char status = 'A'; //Ativo
-		
 		
 		//Dias de empresa
 		System.out.println(anosDeEmpresa * 365);
@@ -34,6 +33,5 @@ public class TiposPrimitivos {
 		System.out.println("ID:" + id + " ganha -> R$:" + salario);
 		System.out.println("Férias? " + estaDeFerias);
 		System.out.println("Status: " + status);
-		
 	}
 }
