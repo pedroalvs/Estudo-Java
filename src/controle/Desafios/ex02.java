@@ -2,7 +2,7 @@ package controle.Desafios;
 
 import java.util.Scanner;
 
-public class ex02 {
+public class Ex02 {
     
     /* Criar um programa informa se o ano informado é um ano bissexto */
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package controle.Desafios;
 
 import java.util.Scanner;
 
-public class ex09 {
+public class Ex09 {
     /* Crie um programa que recebe 10 valores e ao final imprima o maior número. */
 
     public static void main(String[] args) {

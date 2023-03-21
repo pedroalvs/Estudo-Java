@@ -2,7 +2,7 @@ package controle.Desafios;
 
 import java.util.Scanner;
 
-public class ex07{
+public class Ex07{
     /* Criar um programa que enquanto estiver recebendo números positivos, imprime no console a soma dos números inseridos, caso receba um número negativo, encerre o programa. Tente utilizar a estrutura do while. */
 
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package controle.Desafios;
 
 import java.util.Scanner;
 
-public class ex04 {
+public class Ex04 {
     
     /* Criar um programa que receba um número e diga se ele é um número primo. */
     public static void main(String[] args) {
