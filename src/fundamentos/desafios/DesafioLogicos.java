@@ -10,10 +10,10 @@ public class DesafioLogicos {
 		Boolean TQuinta = true;
 		
 		Boolean TV50 = TTerca && TQuinta;
-		System.out.println("Conseguiu compra a TV de 50\"? " + TV50);
+		System.out.println("Conseguiu comprar a TV de 50\"? " + TV50);
 
 		Boolean TV32 = TTerca ^ TQuinta;
-		System.out.println("\nConseguiu compra a TV de 32\"? " + TV32);
+		System.out.println("\nConseguiu comprar a TV de 32\"? " + TV32);
 
 		Boolean Sorvete = TTerca || TQuinta;			
 		System.out.println("\nTomou sorvete com a familia? " + Sorvete);
