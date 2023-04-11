@@ -12,6 +12,7 @@ public class DataTeste {
             d2.ano = 1999;
 
         var d3 = new Data();
+            d3.ano = 2023;
 
         String dataFormatada1 = d1.obterDataFormatada();
             
