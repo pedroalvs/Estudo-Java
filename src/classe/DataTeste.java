@@ -11,9 +11,12 @@ public class DataTeste {
             d2.mes = 03;
             d2.ano = 1999;
 
+        var d3 = new Data();
+
         String dataFormatada1 = d1.obterDataFormatada();
             
             System.out.println("Data 1: " + dataFormatada1);
             System.out.println("Data 2: " + d2.obterDataFormatada());
+            System.out.println("Data 3: " + d3.obterDataFormatada());
     }
 }
