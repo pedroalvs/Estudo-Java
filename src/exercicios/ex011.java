@@ -3,7 +3,7 @@ package exercicios;
 import java.util.Scanner;
 
 //list page: https://www.w3resource.com/java-exercises/basic/index.php
-public class ex011 {
+public class Ex011 {
     
     public static void main(String[] args) {
         
