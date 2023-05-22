@@ -12,10 +12,6 @@ public class Usuario {
         return "Meu nome é " + this.nome + ".";
     }
 
-    String Contem() {
-        boolean c = this.contains(new Usuario(this.nome));
-        String s = c ? "Sim" : "Não";
-    }
 
     @Override
     public int hashCode(){
